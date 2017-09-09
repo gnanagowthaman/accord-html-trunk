@@ -1,0 +1,124 @@
+.mydiv{
+	//background-color:orange;
+	width:100%;
+	height:455px;
+	//border:1px solid black;
+}
+.mydivc{
+	//background-color:red;
+	width:100%;
+	height:455px;
+	//border:1px solid white;
+}
+
+.mydiv-commonbenefits{
+	//background-color:yellow;
+	width:100%;
+	height:500px;
+	//border:1px solid white;
+	line-height: 2.2;
+}
+
+.mydiv-media{
+	//background-color:yellow;
+	display: inline-block;
+    width: 100%;
+    height: 100%;
+	//border:1px solid black;
+}
+.mydiv-founderimg{
+	//background-color:yellow;
+	width:100%;
+	height:500px;
+	//border:1px solid black;
+}
+.mydiv-founderimg img{
+	margin-left:10px;
+}
+.mydivd{
+	//background-color:blue;
+	width:100%;
+	height:500px;
+	//border:1px solid white;   
+}
+.mydive{
+	//background-color:silver;  
+	width:100%;
+	height:500px;
+	//border:1px solid black;
+}
+.mydivf{
+	//background-color:lime;
+	width:100%;
+	height:500px;
+	//border:1px solid black;
+}
+.mydivg{
+	//background-color:orange;
+	display:inline-block
+	width:100%;
+	height:100%;
+	//border:1px solid black;
+}
+.myfirst{
+	//background-color:pink;
+	width:100%;
+	height:250px;
+	//border:1px solid black;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+	// border: 1px solid transparent;
+}
+.myfirst img{
+	width: 100%;
+	height: 80%;
+}
+.ourmission{
+	//background-color:pink;
+}
+.myfooter{
+	background-color:black;
+	display:inline-block;
+	width:100%;
+	height:100%;
+}
+.myfooter .mydivg h4.hc{
+	text-indent:38px;
+	color:white;
+}
+.myfooter .mydivg h4.hc1{
+	text-indent:38px;
+	color:white;
+}
+.myfooter .mydivg h4.hc2{
+	text-indent:38px;
+	
+	color:white;
+}
+.myfooter .mydivg iframe{
+	display:inline-block;
+	width:100%;
+	height:100%;
+}  
+.myfooter .mydivg .myframe{
+	list-style-type:none;
+	color:white;
+	line-height: 2;
+    border-bottom: 1px solid white; 
+	
+}
+a:hover {
+    color: orange;
+    text-decoration: none;
+}
+.imgheader{
+	display:inline-block;
+	width:100%;
+	height:80%;
+}
+.mydivg ul li{
+	list-style-type:none;
+}
